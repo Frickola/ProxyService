@@ -1,7 +1,7 @@
 {
   "name": "ProxyService",
   "description": "A controller for proxying requests created for use with HttpService in Roblox.",
-  "repository": "https://github.com/sentanos/ProxyService",
+  "repository": "https://github.com/Frickola/ProxyService",
   "keywords": ["node", "roblox", "proxy", "httpservice", "proxyservice"],
   "env": {
     "ACCESS_KEY": {
